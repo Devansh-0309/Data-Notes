@@ -26,6 +26,7 @@ Here’s a quick look at some of the notes you'll find in this repository:
 
 ![{E0D4D53C-D2FA-44E6-B931-ECE708192977}](https://github.com/user-attachments/assets/d1a91867-4321-46fd-888b-c9aef2c98875)
 
+---
 
 ## 📌 Why These Notes?
 
