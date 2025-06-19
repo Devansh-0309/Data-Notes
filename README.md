@@ -16,6 +16,13 @@ These notes are not meant to be exhaustive guides—they're quick references and
 
 ---
 
+## 🖼️ Preview of Notes
+
+Here’s a quick look at some of the notes you'll find in this repository:
+
+![{8C3DA020-B6C6-4AE0-9716-3F783DD45C79}](https://github.com/user-attachments/assets/06325098-d837-45c9-8b9c-e4fdeebaffa3)
+
+
 ## 📌 Why These Notes?
 
 - Summarized in an easy-to-digest format
